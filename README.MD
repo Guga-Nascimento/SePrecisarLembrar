@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAB333&height=60&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CAB333&height=60&section=header"/>
 
 
 
@@ -6,4 +6,4 @@
 
 Nesse projeto vou criar um mapa para lembrar como fazer as codificações pertinentes 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAB333&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CAB333&height=60&section=footer"/>
